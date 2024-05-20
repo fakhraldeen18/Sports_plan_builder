@@ -1,0 +1,103 @@
+{
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "images/weight loss3.jpg",
+            "title":"Weight loss"
+        },
+        {
+            "id":2,
+            "image": "images/Muscle gain.jpg",
+            "title":"Muscle gain"
+        },
+        {
+            "id":3,
+            "image": "images/Fitness.jpg",
+            "title":"Stay toned"
+        },{
+            "id":4,
+            "image": "images/weight loss3.jpg",
+            "title":"Weight loss"
+        },
+        {
+            "id":5,
+            "image": "images/Muscle gain.jpg",
+            "title":"Muscle gain"
+        },
+        {
+            "id":6,
+            "image": "images/Fitness.jpg",
+            "title":"Stay toned"
+        }
+       
+    ],
+    "exercise" : [
+        {
+            "id":1,
+            "name": "Chest",
+            "image": "images/chest.png",
+            "exercises":
+        [
+            " Upper:Low To High Cable Fly ",
+            "Middle:Dumbbell Press ",
+            "Lower :High To Low Cable Fly "
+        ]
+        },
+        {
+            "id":2,
+            "name": "Back",
+            "image": "images/back.png",
+            "exercises":
+        [
+             "Upper: Seated Cable Row ",
+             "Lats:Pull-ups ",
+             "Traps:Barbell Shrugs "
+        ]
+        },
+        {
+            "id":3,
+            "name": "Shoulders",
+            "image": "images/shoulders.png",
+            "exercises":
+        [
+            "Front: Dumbbell Press ",
+            "Lateral: Dumbbell Lateral Raises ",
+            "Rear: Face Pulls "
+        ]
+        },{
+            "id":4,
+            "name": "Biceps",
+            "image": "images/Muscle gain.jpg",
+            "exercises":
+            [
+                "Long head: Hammer Curls ",
+                "Short head: Barbell Curls "
+            ]
+        },
+        {
+            "id":5,
+            "name": "Triceps",
+            "image": "images/arms.png",
+            "exercises":
+        [
+             "Long head: Dumbbell Overhead Extension ",
+             "Medial head: Skull Crushers ",
+             "Lateral head: Dumbbell Kickbacks "
+        ]
+        },
+        {
+            "id":6,
+            "name": "Legs",
+            "image": "images/legs.png",
+            "exercises":
+        [
+            "Quads: Squats ",
+           "Hamstrings: Lying Leg Curls ",
+            "Glutes: Hip Thrusts ",
+            "Calves:Seated Calf Raises"
+        ]
+        }
+       
+    ]
+
+}
